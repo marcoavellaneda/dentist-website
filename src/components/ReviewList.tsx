@@ -29,7 +29,6 @@ function ReviewsList (){
         </div>
       </div>
 
-
     </div>
     
     
