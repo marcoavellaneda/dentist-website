@@ -29,7 +29,7 @@ function Home () {
         <Recomendations/>
       </div>
         
-      <div className="absolute z-0">
+      <div className="absolute z-0 mt-32">
         <img
         src={homeBackground}
         alt="Background"

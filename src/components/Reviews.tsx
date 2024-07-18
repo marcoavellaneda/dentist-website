@@ -4,7 +4,7 @@ function Reviews() {
   return (
     <div className="mt-8">
       <div>
-        <img className="absolute  ml-6 w-[365px] min-[400px]:w-[450px] object-contain overflow-x-hidden"
+        <img className="absolute  ml-3 w-[365px] min-[400px]:w-[450px] object-contain overflow-x-hidden"
         src="src/assets/mobile-layer-home-depo.png" alt="" />
 
         <h1 className="absolute mt-8 ml-24 text-white font-bold text-lg">Depoimentos</h1>

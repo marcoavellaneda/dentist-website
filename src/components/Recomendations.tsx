@@ -4,8 +4,8 @@ function Recomendations () {
   return (
     <div>
       <div>
-        <img className="absolute  ml-6 w-[365px] min-[400px]:w-[450px] object-contain overflow-x-hidden"
-        src="src/assets/mobile-layer-home-depo.png" alt="" />
+        <img className="absolute  ml-3 w-[365px] min-[400px]:w-[450px] object-contain overflow-x-hidden"
+        src="src/assets/mobile-layer-home-recomendation.png" alt="" />
 
         <h1 className="absolute mt-8 ml-24 text-white font-bold text-lg">Recomendação</h1>
       </div>
