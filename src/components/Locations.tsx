@@ -4,10 +4,10 @@ function Locations() {
   return (
     <div className="mt-8">
       <div>
-        <img className="absolute  ml-3 h-[400px] w-[365px] min-[400px]:w-[450px] object-contain overflow-x-hidden"
+        <img className="absolute  ml-4 h-[400px] w-[365px] min-[400px]:w-[450px] object-contain overflow-x-hidden"
         src="src/assets/mobile-layer-home-location.png" alt="" />
 
-        <h1 className="absolute mt-8 ml-24 text-white font-bold text-lg">Localização</h1>
+        <h1 className="absolute mt-10 ml-24 text-white font-bold text-lg">Localização</h1>
       </div>
 
       {<div className="absolute mt-[85px] min-[400px]:mt-24 flex">

@@ -1,6 +1,6 @@
 function HeroBtns () {
   return (
-    <div className="relative pt-40 pl-14 pb-0 max-h-fit font-bold text-lg">
+    <div className="relative mt-8 pl-8 pb-0 max-h-fit font-bold text-lg">
       <button
         className="rounded-lg pt-2 pb-2 pl-5 pr-5 border-white text-white border-2 bg-transparent hover:border-white hover:bg-[#202A2C] hover:text-white drop-shadow-2xl">
         Contato

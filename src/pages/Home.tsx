@@ -9,23 +9,22 @@ function Home () {
   return (
     <div>
       <h1 className="absolute z-10">test</h1>
+      
       <Hero/>
-
 
       <div className="absolute">
         <img
         src={homeBackground}
         alt="Background"
         className="opacity-60"
-      />
+        />
       </div>
 
-
-      <div className='absolute z-10 w-full'>
+      <div className='ml-2 z-10 w-full'>
         <Reviews/>
       </div>
 
-      <div className='relative z-10 mt-[450px] min-[400px]:mt-[550px]'>
+      <div className='ml-2 relative z-10 mt-[450px] min-[400px]:mt-[550px]'>
         <Recomendations/>
       </div>
         
@@ -34,10 +33,10 @@ function Home () {
         src={homeBackground}
         alt="Background"
         className="opacity-60"
-      />
+        />
       </div>
 
-      <div className='relative z-10 mt-[870px] min-[400px]:mt-[1080px]'>
+      <div className='ml-2 relative z-10 mt-[870px] min-[400px]:mt-[1080px]'>
         <Locations/>
       </div>
 
