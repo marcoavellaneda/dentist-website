@@ -25,7 +25,7 @@ function Home () {
         <Reviews/>
       </div>
 
-      <div className='relative z-10 mt-[450px]'>
+      <div className='relative z-10 mt-[450px] min-[400px]:mt-[550px]'>
         <Recomendations/>
       </div>
         
@@ -37,7 +37,7 @@ function Home () {
       />
       </div>
 
-      <div className='relative z-10 mt-[870px]'>
+      <div className='relative z-10 mt-[870px] min-[400px]:mt-[1080px]'>
         <Locations/>
       </div>
 

@@ -2,7 +2,7 @@ import RecomendationsList from "./RecomendationsList";
 
 function Recomendations () {
   return (
-    <div>
+    <div className="w-full">
       <div>
         <img className="absolute  ml-3 w-[365px] min-[400px]:w-[450px] object-contain overflow-x-hidden"
         src="src/assets/mobile-layer-home-recomendation.png" alt="" />
