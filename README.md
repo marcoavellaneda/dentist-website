@@ -1,30 +1,19 @@
-# React + TypeScript + Vite
+<h1>
+<img src="https://cdn-icons-png.flaticon.com/128/9441/9441044.png" width=60px> Dentist Website </h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Sobre o Projeto
 
-Currently, two official plugins are available:
+Desenvolvimento de site rápido e responsivo para profssional da área de Odontologia.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#### Tecnologias
+<img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width=60px> <img src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000" width=60px> <img src="https://img.icons8.com/?size=100&id=7gdY5qNXaKC0&format=png&color=000000" width=60px> <img src="https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000" width=60px> <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width=60px> <img src="https://img.icons8.com/?size=100&id=zfHRZ6i1Wg0U&format=png&color=000000" width=60px> <img src="https://code.visualstudio.com/assets/images/code-stable.png" width=60px>
 
-## Expanding the ESLint configuration
+<br>
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+### Projeto
+<img src="public/home-desk.png" width=500px> <img src="public/dicas-desk.png" width=500px align="top">
 
-- Configure the top-level `parserOptions` property like this:
+<br>
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
-
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+### Mobile version
+<img src="public/mobile-frame.png" width=1200px>
