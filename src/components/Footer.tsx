@@ -3,7 +3,7 @@ function Footer() {
     <div className="absolute w-screen bg-[#202A2C] pt-4 mt-8">
       
       <div className="flex pb-4 mt-2">
-        <img className=" w-20 z-10 m-2 ml-8" src="src/assets/logo_01_white.png" alt="" />
+        <img className=" w-20 z-10 m-2 mt-2 ml-8" src="src/assets/logo_01_white.png" alt="" />
         <h1 className="text-white mt-10 font-semibold"> Doutora Sarah <br />Andria</h1>
 
         <div className="flex mt-14">
