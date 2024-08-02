@@ -1,6 +1,7 @@
 import Articles from "../components/Articles";
 import Courses from "../components/Courses";
 import Events from "../components/Events";
+import Footer from "../components/Footer";
 import Graduate from "../components/Graduate";
 import Projects from "../components/Projects";
 import Xp from "../components/Xp";
@@ -19,7 +20,7 @@ function Cv () {
 
       <div>
         
-          <img className="absolute object-cover pb-12 opacity-90 h-[2000px] w-full" src="src/assets/bg-cv.png" alt="" />
+          <img className="absolute object-cover opacity-90 h-[2000px] w-full" src="src/assets/bg-cv.png" alt="" />
         
         <Projects/>
         <div className="mt-8">
@@ -33,7 +34,9 @@ function Cv () {
         </div>
       </div>
 
-      
+      <div className="mt-8">
+        <Footer/>
+      </div>
       
     </div>
   );

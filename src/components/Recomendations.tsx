@@ -4,7 +4,7 @@ function Recomendations () {
   return (
     <div className="w-full">
       <div>
-        <img className="absolute  ml-4 w-[365px] min-[400px]:w-[450px] min-[500px]:w-full object-contain overflow-x-hidden"
+        <img className="absolute  ml-2 w-[370px] min-[400px]:w-[450px] min-[500px]:w-full object-contain overflow-x-hidden"
         src="src/assets/mobile-layer-home-recomendation.png" alt="" />
 
         <h1 className="absolute mt-8 ml-24 text-white font-bold text-lg">Recomendações</h1>

@@ -4,7 +4,7 @@ function Locations() {
   return (
     <div className="mt-8">
       <div>
-        <img className="absolute  ml-4 h-[400px] w-[365px] min-[400px]:w-[450px] object-contain overflow-x-hidden"
+        <img className="absolute  ml-2 h-[400px] w-[370px] min-[400px]:w-[450px] object-contain overflow-x-hidden"
         src="src/assets/mobile-layer-home-location.png" alt="" />
 
         <h1 className="absolute mt-10 ml-24 text-white font-bold text-lg">Localização</h1>

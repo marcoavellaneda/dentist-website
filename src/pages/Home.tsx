@@ -7,8 +7,10 @@ import Reviews from '../components/Reviews';
 
 function Home () {
   return (
-    <div>
-      <h1 className="absolute z-10">test</h1>
+    <div className=''>
+      <div>
+        <img className="absolute w-20 z-10 m-4" src="src/assets/logo_01_white.png" alt="" />
+      </div>
       
       <Hero/>
 

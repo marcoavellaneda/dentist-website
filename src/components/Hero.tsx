@@ -7,7 +7,7 @@ function Hero() {
       <img
         src={heroBackground}
         alt="Background"
-        className="absolute object-cover object-center w-full h-screen "
+        className="absolute object-cover object-center w-full h-screen"
       />
       <div className="relative pt-[90%] top-28">
         <h1 className=" text-white text-4xl pl-8 sm:text-10xl md:text-5xl lg:text-6xl font-bold leading-tight ">
